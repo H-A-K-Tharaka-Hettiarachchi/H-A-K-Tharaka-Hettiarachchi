@@ -54,7 +54,7 @@
   <a href="https://linkedin.com/in/h-a-k-tharaka-hettiarachchi-b888a322a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/kshprimejinx" target="_blank">
+  <a href="https://web.facebook.com/KSHPRIME28/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/h.a.k.tharaka_hettiarachchi" target="_blank">
