@@ -7,7 +7,7 @@
 
 ---
 
-
+- 🔭 I’m currently learning BSc (hons) in Software Engineering
 - 🌱 I’m currently learning **Firebase, React Native**
 - 💬 Ask me about **Java, Android, Hibernate, WebSockets, Firebase**
 - 📫 Reach me at: **kshprimekshithija11@gmail.com**
