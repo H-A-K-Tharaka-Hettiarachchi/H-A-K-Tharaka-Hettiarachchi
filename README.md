@@ -57,7 +57,7 @@
   <a href="https://web.facebook.com/KSHPRIME28/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/h.a.k.tharaka_hettiarachchi" target="_blank">
+  <a href="https://www.instagram.com/k.s.h.p.r.i.m.e" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@hak_tharaka_hettiarachchi" target="_blank">
