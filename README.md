@@ -60,7 +60,7 @@
   <a href="https://instagram.com/h.a.k.tharaka_hettiarachchi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/@hak_tharaka_hettiarachchi" target="_blank">
+  <a href="https://www.youtube.com/@hak_tharaka_hettiarachchi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
